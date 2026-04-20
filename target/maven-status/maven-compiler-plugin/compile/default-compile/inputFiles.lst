@@ -1,0 +1,7 @@
+/Users/anjualex/Downloads/taskmanager/src/main/java/com/example/taskmanager/service/TaskService.java
+/Users/anjualex/Downloads/taskmanager/src/main/java/com/example/taskmanager/repository/TaskRepository.java
+/Users/anjualex/Downloads/taskmanager/src/main/java/com/example/taskmanager/TaskmanagerApplication.java
+/Users/anjualex/Downloads/taskmanager/src/main/java/com/example/taskmanager/model/Task.java
+/Users/anjualex/Downloads/taskmanager/src/main/java/com/example/taskmanager/dto/TaskRequest.java
+/Users/anjualex/Downloads/taskmanager/src/main/java/com/example/taskmanager/dto/TaskResponse.java
+/Users/anjualex/Downloads/taskmanager/src/main/java/com/example/taskmanager/controller/TaskController.java
